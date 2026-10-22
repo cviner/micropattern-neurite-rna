@@ -1,0 +1,17 @@
+key	value
+mean_r_7_Whole	0.29
+mean_r_10_Whole	0.73
+other_whole_control_min_mean_r	0.851
+other_whole_control_min_mean_r_above_0.81	1
+mean_r_12_Soma	0.23
+flagged_libraries	4_Distal_Dendrites,1_Proximal_Dendrites,12_Proximal_Dendrites,7_Soma,12_Soma,7_Whole,10_Whole,10_Control
+outlier_10_Control_r	0.88
+outlier_4_Distal_Dendrites_r	0.66
+outlier_1_Proximal_Dendrites_r	0.56
+outlier_12_Proximal_Dendrites_mahalanobis	2.91
+outlier_7_Soma_r	0.49
+exon_counts_median_millions	6.5
+exon_counts_min_millions	0.6
+exon_counts_max_millions	19.8
+exon_counts_q1_millions	4.3
+exon_counts_q3_millions	8.6

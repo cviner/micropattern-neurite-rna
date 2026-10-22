@@ -1,0 +1,10 @@
+key	value
+utr_libraries	32
+utr_genes	44081
+utr_tested	10880
+dendrite_higher	463
+s5_genes	387
+s5_retained	361
+s5_not_retained	26
+overlap_with_neurite_higher	56
+s5_overlap_with_neurite_higher	53

@@ -1,0 +1,16 @@
+model	seed	retained_of_54
+binomial	0	40
+binomial	1	42
+binomial	2	41
+binomial	3	30
+binomial	4	34
+hypergeometric	0	30
+hypergeometric	1	31
+hypergeometric	2	37
+hypergeometric	3	27
+hypergeometric	4	34
+multinomial	0	20
+multinomial	1	23
+multinomial	2	22
+multinomial	3	23
+multinomial	4	24

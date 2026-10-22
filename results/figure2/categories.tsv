@@ -1,0 +1,55 @@
+gene	log2fc	category	in_middleton_s4
+0610009D07Rik	3.779125676397669	Not assigned	False
+1110008P14Rik	1.8360423225626366	Not assigned	True
+AI413582	5.125249288185539	Not assigned	True
+Apobec1	4.623213404207969	RNA-regulatory	True
+Arhgef10l	3.977950631312456	Not assigned	False
+Bod1	6.1715666585090645	Not assigned	False
+Ccdc36	-0.15701889248127035	Not assigned	False
+Clec2l	3.9251429476262363	Not assigned	True
+Cox6c	1.0786313851574794	Mitochondrial	True
+Crem	3.4704837566233806	Not assigned	False
+Ctnnbip1	3.257805193978353	Signaling/synaptic	True
+Cyth1	4.210014416096915	Not assigned	False
+Dbndd2	6.0286355649523635	Not assigned	True
+Ddah1	3.88150752511125	Signaling/synaptic	True
+Dnajc9	2.4970957661898043	Not assigned	False
+Emp2	1.383622586970125	Not assigned	False
+Fam167a	3.0729162234549623	Not assigned	False
+Fam213b	3.4301876020520026	Not assigned	False
+Fbrs	4.906473451070468	Not assigned	False
+Foxo1	3.923330150467608	Signaling/synaptic	False
+Gabarapl1	3.3722896957212343	Signaling/synaptic	True
+Keap1	6.185029265655594	RNA-regulatory	False
+Mgst3	5.616745260735259	Not assigned	True
+Mir682	0.8275774825612322	Not assigned	True
+Mlh3	5.5198537848482605	Not assigned	False
+Mrpl27	4.731303428358055	Mitochondrial	True
+Mrpl53	3.1838743665403504	Mitochondrial	True
+Necab2	4.264910108859491	Signaling/synaptic	True
+Ppfia1	4.686611564344042	Signaling/synaptic	False
+Rnd2	1.0332516729861347	RNA-regulatory	True
+Rpl19	3.133337024103743	Translation/ribosome	True
+Rps27a	1.632119181088518	Translation/ribosome	True
+Rptor	5.853391306293769	Translation/ribosome	True
+Slmo2	3.9987002657949393	Not assigned	False
+Sox9	2.5334297046266188	RNA-regulatory	False
+Speg	2.240585887597423	Not assigned	True
+Stx4a	2.932794690344605	Signaling/synaptic	True
+Tceb1	6.400970891731638	Not assigned	False
+Timm8b	2.262720159661485	Mitochondrial	True
+Tiprl	5.209702889313814	Not assigned	False
+Tmsb10	0.982148410534035	Cytoskeletal	True
+Tnrc6a	3.8688014425047714	RNA-regulatory	True
+Tns1	5.619874596510403	Not assigned	False
+Tor1aip1	5.278255058776784	Not assigned	True
+Tsc22d4	2.3635472356440226	Not assigned	False
+Tspan17	6.419131847461372	Not assigned	True
+Ttc38	7.126471905856119	Not assigned	False
+Tubb4b	4.967001272275135	Cytoskeletal	True
+Ubl7	6.223565872734806	Not assigned	True
+Uqcrh	1.8483072219014665	Mitochondrial	True
+Vldlr	0.5312165601240423	Signaling/synaptic	False
+Wwtr1	5.188504638489695	Signaling/synaptic	False
+Zfp219	4.873361818399886	Not assigned	False
+Zfp444	5.720694869411354	Not assigned	True

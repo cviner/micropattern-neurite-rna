@@ -1,0 +1,9 @@
+key	value
+libraries	59
+dedup_removed_median_pct	33.0
+dedup_removed_min_pct	4.0
+dedup_removed_max_pct	53.0
+dedup_pearson_min	0.994
+dedup_pearson_max	0.999
+dedup_spearman_min_above_0.999	1
+dedup_genes_lost_max	0

@@ -1,0 +1,17 @@
+key	value
+observed_distal_higher	54
+global_rate	0.3471967340209423
+global_rate_null_mean	2.8036
+global_rate_null_max	10
+global_rate_null_exceedances	0
+global_rate_null_P	0.0001999600079984003
+global_rate_null_P_below_0.0002	1
+abundance_null_mean	4.1724
+abundance_null_exceedances	0
+per_set_rate_min	0.24076760013388374
+per_set_rate_max	0.6773532602145353
+set_rate_null_mean	7.0403
+set_rate_null_sd	2.425525903799009
+set_rate_null_max	20
+set_rate_null_exceedances	0
+set_rate_null_P	4.999750012499375e-05

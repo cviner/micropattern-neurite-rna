@@ -1,0 +1,13 @@
+key	value
+s1a_libraries	23
+s1a_min_offdiag_r	0.168
+s1a_7_Whole_mean_r	0.29
+s1a_10_Whole_mean_r	0.726
+s1b_genes_detected_both	13545
+s1b_log10_mean_cpm_r	0.7182
+s2_libraries	36
+s2_genes	11410
+s2_max_height	323.6
+s3_libraries	24
+s3_genes	13250
+s3_max_height	303

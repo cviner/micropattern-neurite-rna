@@ -1,0 +1,6 @@
+file	sheet	published_n	computed_n	shared	only_published	only_computed	sets_equal	median_abs_lfc_diff	max_abs_lfc_diff	genes_lfc_within_1e4	median_rel_padj_diff	max_rel_padj_diff
+SuppFile1(Micropattern_Control).xlsx	Micropatterned vs Control	1080	1080	1080	0	0	TRUE	8.39167402233443e-10	0.00358479765708442	1078	5.07223399147099e-09	3.3670269172976e-05
+SuppFile2(Dendrites_Soma).xlsx	Neurite DE	806	806	806	0	0	TRUE	2.37370791411617e-07	0.00368003198060518	790	1.62351722501854e-06	0.0442985622598839
+SuppFile2(Dendrites_Soma).xlsx	Soma DE	579	579	579	0	0	TRUE	1.1057037596629e-07	0.000875688997941104	571	8.65257751801269e-07	0.0170705653014716
+SuppFile4(Distal_Proximal).xlsx	Distal DE	316	316	316	0	0	TRUE	6.74859625593438e-06	0.0031217997174191	307	2.1682416175435e-07	0.0302767831886295
+SuppFile4(Distal_Proximal).xlsx	Proximal DE	448	448	448	0	0	TRUE	4.04884956584084e-06	0.000258194882483284	444	1.57230432435391e-07	0.010618925050072

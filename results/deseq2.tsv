@@ -1,0 +1,15 @@
+key	value
+micropattern_de	1080
+micropattern_up	635
+micropattern_down	445
+micropattern_tested	11356
+micropattern_na_padj	3272
+neurite_soma_tested	11410
+neurite_higher	806
+soma_higher	579
+neurite_soma_de	1385
+distal_proximal_tested	13250
+distal_higher	316
+proximal_higher	448
+published_sets_equal	1
+published_max_abs_lfc_diff	0.00368003

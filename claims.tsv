@@ -1,0 +1,171 @@
+claim	section	expected	tolerance	result_file	key	note
+whole_control_permanova_pseudo_F	Micropattern vs standard	1.03	0.005	micropattern	permanova_pseudo_F	
+whole_control_permanova_P	Micropattern vs standard	0.31	0.005	micropattern	permanova_P	
+whole_control_permanova_R2	Micropattern vs standard	0.051	0.0005	micropattern	permanova_R2	
+classifier_accuracy	Micropattern vs standard	0.57	0.005	micropattern	classifier_accuracy	
+classifier_chance	Micropattern vs standard	0.52	0.005	micropattern	classifier_chance	
+classifier_P	Micropattern vs standard	0.39	0.005	micropattern	classifier_P	
+hotelling_genes	Micropattern vs standard	13564	0	micropattern	hotelling_genes	
+hotelling_P	Micropattern vs standard	0.15	0.005	micropattern	hotelling_P	
+paired_consistent_8of9	Micropattern vs standard	601	0	micropattern	consistent_8of9	
+paired_whole_higher_pct	Micropattern vs standard	69.6	0.05	micropattern	whole_higher_pct	
+paired_signflip_P	Micropattern vs standard	0.016	0.0005	micropattern	signflip_P	
+bootstrap_whole_higher_CI_low	Micropattern vs standard	0.34	0.005	micropattern	bootstrap_ci_low	
+bootstrap_whole_higher_CI_high	Micropattern vs standard	0.86	0.005	micropattern	bootstrap_ci_high	
+cohen_h_direction	Micropattern vs standard	0.40	0.005	micropattern	cohen_h_direction	
+cohen_h_classifier	Micropattern vs standard	0.10	0.005	micropattern	cohen_h_classifier	
+subsampled_whole_higher_pct	Micropattern vs standard	64.0	0.05	micropattern	subsampled_whole_higher_pct	
+pca_pc1_variance_pct	Micropattern vs standard	26	0.5	micropattern	pc1_variance_pct	
+pca_pc1_library_size_r	Micropattern vs standard	-0.57	0.005	micropattern	pc1_library_size_r	
+pca_pc1_library_size_P	Micropattern vs standard	0.013	0.0005	micropattern	pc1_library_size_P	
+pca_pc3_variance_pct	Micropattern vs standard	6.1	0.05	micropattern	pc3_variance_pct	
+pca_pc3_batch_P	Micropattern vs standard	0.032	0.0005	micropattern	pc3_batch_P	
+pca_pc4_variance_pct	Micropattern vs standard	5.7	0.05	micropattern	pc4_variance_pct	
+pca_pc4_neurons_r	Micropattern vs standard	-0.51	0.01	micropattern	pc4_neurons_r	
+pca_pc4_neurons_P	Micropattern vs standard	0.033	0.0005	micropattern	pc4_neurons_P	
+pca_plating_min_P_above_0.10	Micropattern vs standard	1	0	micropattern	plating_min_P_above_0.10	
+stress_markers_detectable	Micropattern vs standard	24	0	micropattern	stress_markers_detectable	
+stress_median_log2	Micropattern vs standard	-0.13	0.005	micropattern	stress_median_log2	
+stress_wilcoxon_P	Micropattern vs standard	0.216	0.0005	micropattern	stress_wilcoxon_P	
+stress_permutation_P	Micropattern vs standard	0.6936	0.00005	micropattern	stress_permutation_P	
+control_batch_de_genes	Micropattern vs standard	0	0	micropattern	control_batch_de_genes	
+qc_7_Whole_mean_r	Quality control	0.29	0.005	qc	mean_r_7_Whole	
+qc_10_Whole_mean_r	Quality control	0.73	0.005	qc	mean_r_10_Whole	
+qc_other_whole_control_min_mean_r_above_0.81	Quality control	1	0	qc	other_whole_control_min_mean_r_above_0.81	
+qc_12_Soma_mean_r	Quality control	0.23	0.005	qc	mean_r_12_Soma	
+library_exon_counts_median_millions	Quality control	6.5	0.05	qc	exon_counts_median_millions	
+library_exon_counts_min_millions	Quality control	0.6	0.05	qc	exon_counts_min_millions	
+library_exon_counts_max_millions	Quality control	19.8	0.05	qc	exon_counts_max_millions	
+library_exon_counts_q1_millions	Quality control	4.3	0.05	qc	exon_counts_q1_millions	
+library_exon_counts_q3_millions	Quality control	8.6	0.05	qc	exon_counts_q3_millions	
+deseq2_micropattern_de	DESeq2	1080	0	deseq2	micropattern_de	
+deseq2_micropattern_tested	DESeq2	11356	0	deseq2	micropattern_tested	
+deseq2_micropattern_na_padj	DESeq2	3272	0	deseq2	micropattern_na_padj	
+deseq2_neurite_higher	DESeq2	806	0	deseq2	neurite_higher	
+deseq2_soma_higher	DESeq2	579	0	deseq2	soma_higher	
+deseq2_distal_higher	DESeq2	316	0	deseq2	distal_higher	
+deseq2_proximal_higher	DESeq2	448	0	deseq2	proximal_higher	
+middleton_s5_overlap	Neurite vs soma	53	0	neurite_soma	middleton_s5_overlap	
+middleton_s5_testable	Neurite vs soma	185	0	neurite_soma	middleton_s5_testable	
+middleton_s5_pct_of_ours	Neurite vs soma	6.6	0.05	neurite_soma	middleton_s5_pct_of_ours	
+middleton_s5_pct_of_testable	Neurite vs soma	28.6	0.05	neurite_soma	middleton_s5_pct_of_testable	
+middleton_s5_fold	Neurite vs soma	4.4	0.05	neurite_soma	middleton_s5_fold	
+middleton_s5_hypergeometric_P	Neurite vs soma	5.8e-21	0.05e-21	neurite_soma	middleton_s5_hypergeometric_P	
+consistent_proximal	Neurite vs soma	3330	0	neurite_soma	consistent_proximal	
+consistent_distal	Neurite vs soma	1709	0	neurite_soma	consistent_distal	
+consistent_union	Neurite vs soma	3538	0	neurite_soma	consistent_union	
+consistent_distal_only	Neurite vs soma	208	0	neurite_soma	consistent_distal_only	
+middleton_s6_recovered	Neurite vs soma	1223	0	neurite_soma	middleton_s6_recovered	
+middleton_s6_total	Neurite vs soma	1863	0	neurite_soma	middleton_s6_total	
+stress_markers_rising_toward_soma	Neurite vs soma	11	0	neurite_soma	stress_markers_rising_toward_soma	
+stress_markers_detectable_compartments	Neurite vs soma	24	0	neurite_soma	stress_markers_detectable	
+expressed_universe	Proximal vs distal	12396	0	proximal_distal	expressed_universe	
+proxdist_permanova_genes	Proximal vs distal	15087	0	proximal_distal	permanova_genes	
+proxdist_permanova_P	Proximal vs distal	0.010	0.0005	proximal_distal	permanova_P	
+proxdist_permanova_R2	Proximal vs distal	0.071	0.0005	proximal_distal	permanova_R2	
+proxdist_lopo_P_min	Proximal vs distal	0.0010	0.00005	proximal_distal	lopo_P_min	
+proxdist_lopo_P_max	Proximal vs distal	0.020	0.0005	proximal_distal	lopo_P_max	
+proxdist_lopo_R2_min	Proximal vs distal	0.065	0.0005	proximal_distal	lopo_R2_min	
+proxdist_lopo_R2_max	Proximal vs distal	0.093	0.0005	proximal_distal	lopo_R2_max	
+proxdist_unrestricted_cauchy_P	Proximal vs distal	0.052	0.0005	proximal_distal	unrestricted_cauchy_P	
+proxdist_unrestricted_omit12_P	Proximal vs distal	0.041	0.0005	proximal_distal	unrestricted_omit12_P	
+proxdist_exact_omit12_P	Proximal vs distal	0.016	0.0005	proximal_distal	exact_omit12_P	
+polarity_median_pct_expected	Proximal vs distal	75	0.5	proximal_distal	polarity_median_pct_expected	
+polarity_markers_median_abs_log2	Proximal vs distal	1.54	0.005	proximal_distal	polarity_markers_median_abs_log2	
+polarity_reference_median_abs_log2	Proximal vs distal	0.51	0.005	proximal_distal	polarity_reference_median_abs_log2	
+consistent_10of12_total	Proximal vs distal	1208	0	proximal_distal	consistent_10of12_total	
+consistent_10of12_proximal	Proximal vs distal	1154	0	proximal_distal	consistent_10of12_proximal	
+consistent_10of12_distal	Proximal vs distal	54	0	proximal_distal	consistent_10of12_distal	
+symmetric_null_mean	Proximal vs distal	140.8	0.05	proximal_distal	symmetric_null_mean	
+symmetric_null_P	Proximal vs distal	0.0015	0.00005	proximal_distal	symmetric_null_P	
+symmetric_null_fold	Proximal vs distal	8.6	0.05	proximal_distal	symmetric_null_fold	
+global_rate	Proximal vs distal	0.35	0.005	proximal_distal	global_rate	
+global_rate_null_mean	Proximal vs distal	3	0.5	proximal_distal	global_rate_null_mean	
+global_rate_null_P_below_0.0002	Proximal vs distal	1	0	proximal_distal	global_rate_null_P_below_0.0002	
+per_set_rate_min	Proximal vs distal	0.241	0.0005	proximal_distal	per_set_rate_min	
+per_set_rate_max	Proximal vs distal	0.677	0.0005	proximal_distal	per_set_rate_max	
+set_rate_null_mean	Proximal vs distal	7.0	0.05	proximal_distal	set_rate_null_mean	
+set_rate_null_sd	Proximal vs distal	2.4	0.05	proximal_distal	set_rate_null_sd	
+set_rate_null_max	Proximal vs distal	20	0	proximal_distal	set_rate_null_max	
+set_rate_null_P	Proximal vs distal	5e-5	0.05e-5	proximal_distal	set_rate_null_P	
+abundance_null_mean	Proximal vs distal	4	0.5	proximal_distal	abundance_null_mean	
+distal_higher_9of12	Proximal vs distal	155	0	proximal_distal	distal_higher_9of12	
+distal_higher_11of12	Proximal vs distal	11	0	proximal_distal	distal_higher_11of12	
+distal_higher_12of12	Proximal vs distal	0	0	proximal_distal	distal_higher_12of12	
+middleton_s4_overlap	Proximal vs distal	29	0	proximal_distal	middleton_s4_overlap	
+middleton_s4_fold	Proximal vs distal	1.4	0.05	proximal_distal	middleton_s4_fold	
+middleton_s4_P	Proximal vs distal	0.016	0.0005	proximal_distal	middleton_s4_P	
+middleton_s4_external_overlap	Proximal vs distal	25	0	proximal_distal	middleton_s4_external_overlap	
+middleton_s4_external_P	Proximal vs distal	0.029	0.0005	proximal_distal	middleton_s4_external_P	
+candidates_median_cpm	Proximal vs distal	116	0.5	proximal_distal	candidates_median_cpm	
+universe_median_cpm	Proximal vs distal	8.0	0.05	proximal_distal	universe_median_cpm	
+candidates_detected_11of12_distal	Proximal vs distal	45	0	proximal_distal	candidates_detected_11of12_distal	
+depth_matched_retained_min	Proximal vs distal	20	0	proximal_distal	depth_matched_retained_min	
+depth_matched_retained_max	Proximal vs distal	42	0	proximal_distal	depth_matched_retained_max	
+depth_matched_retained_median	Proximal vs distal	30	0	proximal_distal	depth_matched_retained_median	
+pseudo_distal_max_overlap	Proximal vs distal	1	0	proximal_distal	pseudo_distal_max_overlap	
+proximal_higher_pct_cpm	Proximal vs distal	69.8	0.05	proximal_distal	proximal_higher_pct_cpm	
+proximal_higher_pct_median_of_ratios	Proximal vs distal	57.0	0.05	proximal_distal	proximal_higher_pct_median_of_ratios	
+proximal_higher_pct_tmm	Proximal vs distal	60.4	0.05	proximal_distal	proximal_higher_pct_tmm	
+proximal_higher_pct_upper_quartile	Proximal vs distal	60.4	0.05	proximal_distal	proximal_higher_pct_upper_quartile	
+top100_distal_pct	Proximal vs distal	76.1	0.05	proximal_distal	top100_distal_pct	
+top100_proximal_pct	Proximal vs distal	65.9	0.05	proximal_distal	top100_proximal_pct	
+permdisp_distal	Proximal vs distal	182	0.5	proximal_distal	permdisp_distal	
+permdisp_proximal	Proximal vs distal	215	0.5	proximal_distal	permdisp_proximal	
+permdisp_P	Proximal vs distal	0.24	0.005	proximal_distal	permdisp_P	
+within_minus_across_r_prox_dist	Proximal vs distal	-0.016	0.0005	proximal_distal	within_minus_across_r_prox_dist	
+within_minus_across_r_prox_soma	Proximal vs distal	0.024	0.0005	proximal_distal	within_minus_across_r_prox_soma	
+within_minus_across_r_dist_soma	Proximal vs distal	0.022	0.0005	proximal_distal	within_minus_across_r_dist_soma	
+omit12_consistent_9of11	Proximal vs distal	1509	0	proximal_distal	omit12_consistent_9of11	
+omit12_consistent_10of11	Proximal vs distal	607	0	proximal_distal	omit12_consistent_10of11	
+axon_Mapt	Proximal vs distal	0.13	0.005	proximal_distal	axon_Mapt	
+axon_Snap25	Proximal vs distal	0.19	0.005	proximal_distal	axon_Snap25	
+axon_Syt1	Proximal vs distal	0.09	0.005	proximal_distal	axon_Syt1	
+axon_Dlg4	Proximal vs distal	0.39	0.005	proximal_distal	axon_Dlg4	
+axon_Shank3	Proximal vs distal	0.71	0.005	proximal_distal	axon_Shank3	
+axon_Map2	Proximal vs distal	0.08	0.005	proximal_distal	axon_Map2	
+axon_Gap43	Proximal vs distal	1.55	0.005	proximal_distal	axon_Gap43	
+axon_Nefl	Proximal vs distal	0.16	0.005	proximal_distal	axon_Nefl	
+gfap_elevated_distal	Proximal vs distal	4	0	proximal_distal	gfap_elevated_distal	
+outlier_10_Control_r	Quality control	0.88	0.005	qc	outlier_10_Control_r	
+outlier_4_Distal_r	Quality control	0.66	0.005	qc	outlier_4_Distal_Dendrites_r	
+outlier_1_Proximal_r	Quality control	0.56	0.005	qc	outlier_1_Proximal_Dendrites_r	
+outlier_12_Proximal_mahalanobis	Quality control	2.91	0.005	qc	outlier_12_Proximal_Dendrites_mahalanobis	
+outlier_7_Soma_r	Quality control	0.49	0.005	qc	outlier_7_Soma_r	
+dedup_removed_median_pct	Upstream processing	33	0.5	upstream	dedup_removed_median_pct	
+dedup_removed_min_pct	Upstream processing	4	0.5	upstream	dedup_removed_min_pct	
+dedup_removed_max_pct	Upstream processing	53	0.5	upstream	dedup_removed_max_pct	
+dedup_pearson_min	Upstream processing	0.994	0.0005	upstream	dedup_pearson_min	
+dedup_pearson_max	Upstream processing	0.999	0.0005	upstream	dedup_pearson_max	
+dedup_spearman_above_0.999	Upstream processing	1	0	upstream	dedup_spearman_min_above_0.999	
+dedup_genes_lost	Upstream processing	0	0	upstream	dedup_genes_lost_max	
+deseq2_neurite_soma_total	Neurite vs soma	1385	0	deseq2	neurite_soma_de	
+deseq2_micropattern_na_padj_pct	DESeq2	28.8	0.05	cooks	na_padj_pct	
+cooks_na_mean_ratio	DESeq2	1.19	0.005	cooks	mean_cooks_ratio	
+design_check_neurite_soma_animal_de	DESeq2	1379	0	design_check	neurite_soma_animal_de	
+design_check_neurite_soma_batch_de	DESeq2	1024	0	design_check	neurite_soma_batch_de	
+design_check_neurite_soma_overlap	DESeq2	522	0	design_check	neurite_soma_overlap	
+design_check_neurite_soma_lfc_r	DESeq2	0.68	0.005	design_check	neurite_soma_lfc_r	
+design_check_proximal_distal_animal_de	DESeq2	764	0	design_check	proximal_distal_animal_de	
+design_check_proximal_distal_batch_de	DESeq2	506	0	design_check	proximal_distal_batch_de	
+design_check_proximal_distal_overlap	DESeq2	228	0	design_check	proximal_distal_overlap	
+design_check_proximal_distal_lfc_r	DESeq2	0.68	0.005	design_check	proximal_distal_lfc_r	
+design_check_animal_minus_primary	DESeq2	-6	0	design_check	neurite_soma_animal_minus_primary	
+design_check_animal_set_differs_from_primary	DESeq2	0	0	design_check	neurite_soma_animal_primary_identical	
+go_neuron_bg_neurite_terms	Neurite vs soma	1	0	go_enrichment	neuron_bg_neurite_terms	
+go_neuron_bg_only_cytosolic_ribosome	Neurite vs soma	1	0	go_enrichment	neuron_bg_neurite_only_GO0022626	
+go_neuron_bg_cytosolic_ribosome_padj	Neurite vs soma	0.00066	0.000005	go_enrichment	neuron_bg_GO0022626_padj	
+go_neuron_bg_soma_terms	Neurite vs soma	0	0	go_enrichment	neuron_bg_soma_terms	
+go_published_gprofiler_tables_reproduced	Neurite vs soma	10	0	go_enrichment	published_tables_reproduced	
+enrichgo_middleton_themes_recovered	Neurite vs soma	1	0	go_enrichment	enrichgo_neurite_themes_recovered	
+gsea_micropattern_significant	Micropattern vs standard	0	0	go_enrichment	gsea_micropattern_significant	
+gsea_neurite_soma_significant	Neurite vs soma	0	0	go_enrichment	gsea_neurite_soma_significant	
+gsea_distal_proximal_significant	Proximal vs distal	0	0	go_enrichment	gsea_distal_proximal_significant	
+gosemsim_bp_pct	Proximal vs distal	67	0.5	gosemsim	bp_similarity_pct	
+gosemsim_cc_pct	Proximal vs distal	81.2	0.05	gosemsim	cc_similarity_pct	
+gosemsim_mf_pct	Proximal vs distal	75.2	0.05	gosemsim	mf_similarity_pct	
+middleton_reanalysis_dendrite_higher	Neurite vs soma	463	0	middleton_reanalysis	dendrite_higher	
+middleton_reanalysis_s5_genes	Neurite vs soma	387	0	middleton_reanalysis	s5_genes	
+middleton_reanalysis_s5_not_retained	Neurite vs soma	26	0	middleton_reanalysis	s5_not_retained	
+suppfig1_7_Whole_mean_r	Quality control	0.29	0.005	supplementary_figures	s1a_7_Whole_mean_r	
+suppfig1_10_Whole_mean_r	Quality control	0.73	0.005	supplementary_figures	s1a_10_Whole_mean_r	

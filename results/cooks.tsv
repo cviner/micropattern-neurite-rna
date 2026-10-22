@@ -1,0 +1,16 @@
+key	value
+tested	11356
+na_padj	3272
+na_padj_pct	28.8
+na_from_cooks_outlier	2608
+na_from_independent_filtering	664
+cooks_cutoff_F99	5.0919
+mean_cooks_na_micropattern	3.41555
+mean_cooks_na_control	2.86856
+mean_cooks_ratio	1.1907
+mean_cooks_ratio_2dp	1.19
+mean_cooks_nonNA_ratio	1.0647
+max_cooks_sample_micropattern	1733
+max_cooks_sample_control	1539
+micropattern_libraries	10
+control_libraries	11

@@ -1,0 +1,11 @@
+analysis	version	file	sheet	published_terms	computed_terms	shared	term_sets_equal	max_rel_p_diff
+micropattern_up_annotated	e112_eg59_p19_c28bd395	SuppFile1(Micropattern_Control).xlsx	Micropattern DE GO	269	269	269	TRUE	3.93e-15
+neurite_annotated	e112_eg59_p19_c28bd395	SuppFile2(Dendrites_Soma).xlsx	Neurite GO (All Coding Genes)	229	229	229	TRUE	3.9e-15
+soma_annotated	e112_eg59_p19_c28bd395	SuppFile2(Dendrites_Soma).xlsx	Soma GO (All Coding Genes)	337	337	337	TRUE	3.96e-05
+distal_annotated	e112_eg59_p19_c28bd395	SuppFile4(Distal_Proximal).xlsx	Distal GO (All Coding Genes)	112	112	112	TRUE	4.15e-15
+proximal_annotated	e112_eg59_p19_c28bd395	SuppFile4(Distal_Proximal).xlsx	Proximal GO (All Coding Genes)	370	370	370	TRUE	4.5e-15
+neurite_neuronbg	e112_eg59_p19_c28bd395	SuppFile2(Dendrites_Soma).xlsx	Neurite GO (Neuron-Expressed)	1	1	1	TRUE	0.00502
+soma_neuronbg	e112_eg59_p19_c28bd395	SuppFile2(Dendrites_Soma).xlsx	Soma GO (Neuron-Expressed)	0	0	0	TRUE	0
+consistent_union_neuronbg	e112_eg59_p19_c28bd395	SuppFile3(ConsDistal_ConsProximal).xlsx	ConsNeurite GO (Neuron Genes)	464	464	464	TRUE	4.73e-15
+distal_neuronbg_all59_e114	e114_eg62_p19_9dc92ac8	SuppFile4(Distal_Proximal).xlsx	Distal GO (Neuron-Expressed)	0	0	0	TRUE	0
+proximal_neuronbg_all59_e114	e114_eg62_p19_9dc92ac8	SuppFile4(Distal_Proximal).xlsx	Proximal GO (Neuron-Expressed)	11	11	11	TRUE	0.000351

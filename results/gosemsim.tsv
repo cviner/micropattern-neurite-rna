@@ -1,0 +1,17 @@
+key	value
+bp_distal_terms	53
+bp_proximal_terms	242
+bp_shared_terms	35
+bp_similarity	0.671
+bp_similarity_pct	67.1
+mf_distal_terms	6
+mf_proximal_terms	27
+mf_shared_terms	6
+mf_similarity	0.752
+mf_similarity_pct	75.2
+cc_distal_terms	53
+cc_proximal_terms	101
+cc_shared_terms	29
+cc_similarity	0.812
+cc_similarity_pct	81.2
+go_db_source_date	2025-02-06
